@@ -1,11 +1,7 @@
-## Hi there 👋  welcome to my GitHub!
+### Hi there 👋  welcome to my GitHub!
 
 My name is Javokhir Madaminov and I am web front-end developer from Tashkent , Uzbekistan. I do alot of things, and some of them  you may even find intersting.
----
 
-
-<!--
-**EAGLEMadaminov/EAGLEMadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <img widtg="32" height="32"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html image"/>
