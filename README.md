@@ -1,7 +1,7 @@
 ### Hi there 👋  welcome to my GitHub!
 
-My name is Javokhir Madaminov and I am web front-end developer from Tashkent , Uzbekistan. I do alot of things, and some of them  you may even find intersting.
-
+My name is Javokhir Madaminov and I am web frontend developer from Tashkent , Uzbekistan. I do a lot of things, and some of them  you may even find intersting.
+---
 
 Here are some ideas to get you started:
 
