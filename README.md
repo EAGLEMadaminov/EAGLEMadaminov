@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Javokhir Madaminov - welcome to my GitHub!
 
 <!--
 **EAGLEMadaminov/EAGLEMadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
