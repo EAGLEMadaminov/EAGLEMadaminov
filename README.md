@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html image"/>
+<img widtg="32" height="32"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html image"/>
