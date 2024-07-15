@@ -35,6 +35,6 @@ I am open for collaborations, so if you find my work interesting feel free to se
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EAGLEMadaminov&show_icons=true&theme=transparent" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGLEMadaminov&layout=pie" alt=""/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGLEMadaminov&layout=compact" alt=""/>
 </p>
 
