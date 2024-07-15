@@ -33,4 +33,5 @@ I am open for collaborations, so if you find my work interesting feel free to se
   <a href="https://t.me/It_with_Eagle"><img src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/></a>
   <a href="https://leetcode.com/u/Eagle_mj/"><img src="https://img.shields.io/badge/leetcode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode"/></a>
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EAGLEMadaminov" />
 
