@@ -21,4 +21,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Admin-work tour agency web site
 - 🌱 I’m currently learning Typescript deeper on udemy
 
+---
+
+### Send me a message!
+
+I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+
+<p>
+  <a href="https://www.linkedin.com/in/javohir-m-1715ab249/"><img src="https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt=""/></a>
+  <a href="https://www.youtube.com/@iwechannel1966"><img src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt=""/></a>
+  <a href="https://t.me/EAGLE_FM77"><img src="https://img.shields.io/badge/telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt=""/></a>
+</p>
 
