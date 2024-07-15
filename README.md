@@ -35,7 +35,7 @@ I am open for collaborations, so if you find my work interesting feel free to se
 </p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EAGLEMadaminov&show_icons=true&theme=transparent" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGLEMadaminov&layout=compact" alt=""/>
+  <img align="center" style="marginLeft:15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGLEMadaminov&layout=compact" alt=""/>
 </p>
   <img align="center" style="matgitTop:20px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Javohirbek" alt="waka time"/>
 
