@@ -14,6 +14,7 @@ My name is Javokhir Madaminov and I am web frontend developer from Tashkent , Uz
 <img src="https://img.shields.io/badge/nexttjs-000000?logo=nextdotjs&logoColor=sky&style=for-the-badge" alt="Next" />
 <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=black&style=for-the-badge" alt="Typescript" />
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" alt="Tailwind css" />
+<img src="https://img.shields.io/badge/nodejs-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node js" />
 </p>
 Here are some ideas to get you started:
 
