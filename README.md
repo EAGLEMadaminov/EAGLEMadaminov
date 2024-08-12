@@ -18,8 +18,7 @@ My name is Javokhir Madaminov and I am web frontend developer from Tashkent , Uz
 </p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Admin-work tour agency web site
-- 🌱 I’m currently learning Typescript deeper on udemy
+- 🔭 I’m currently working on Admin-work tour agency  and Family web site
 
 ---
 
